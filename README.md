@@ -227,8 +227,7 @@ mvn test
 ```
 
 ### Test Coverage
-- Unit tests are written for services and repositories.
-- MockMVC tests are included for controllers.
+- Unit tests are written for services 
 
 ---
 
@@ -240,4 +239,4 @@ mvn test
 
 **Initial data defined on project initialization:**
 
-![Pasted Graphic 4.png](..%2F..%2FLibrary%2FGroup%20Containers%2Fgroup.com.apple.notes%2FAccounts%2FF52144EA-8130-476C-8FD4-90A8975D800F%2FMedia%2F1DE11E53-2CF2-4A5B-BDC9-95A2C9411324%2F1_B9968F0A-9953-42C2-A91F-7D0FF21755C3%2FPasted%20Graphic%204.png)
+![img.png](img.png)
