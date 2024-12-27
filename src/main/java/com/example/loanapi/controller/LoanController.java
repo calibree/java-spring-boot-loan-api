@@ -33,7 +33,7 @@ public class LoanController {
         this.installmentService = installmentService;
     }
 
-    //todo createLoan, listLoans, listInstallmentsForGivenLoan, payLoan
+    //api list:  createLoan, getLoansByCustomer, getInstallmentsByLoan, payLoan
 
     // --- Loan Endpoints ---
 

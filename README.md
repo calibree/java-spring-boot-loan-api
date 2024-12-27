@@ -39,7 +39,7 @@ This is a Spring Boot-based backend application for managing loans, including cr
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo/loan-api.git //todo
+git clone https://github.com/calibree/java-spring-boot-loan-api
 cd loan-api
 ```
 
